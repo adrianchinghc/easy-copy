@@ -1,0 +1,19 @@
+interface:
+  display_name: easy copy
+  short_description: 'Write website and marketing copy that anyone gets on the first read. Use when AI-written copy sounds technical, wordy or robotic, or when someone says "I had to read it twice". Write, rewrite or review any marketing or product copy so it
+    reads at a third-grade level, lands on the first read and gets the reader to act.
+    Outcome-led, benefit-led and conversion-focused, and always run through the no-ai-slop
+    skill. Use for every copywriting task, for any brand: websites, landing pages,
+    headlines, hero sections, features, FAQs, CTAs, emails, ads, social posts, sales
+    pages and in-app text. Also use when someone says copy is confusing, too clever,
+    too wordy, jargon-heavy or "I had to read it twice". Style reference is outrank.so
+    and squad.so.'
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
