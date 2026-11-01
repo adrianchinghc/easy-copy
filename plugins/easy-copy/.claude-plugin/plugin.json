@@ -1,0 +1,12 @@
+{
+  "name": "easy-copy",
+  "version": "1.0.0",
+  "description": "Write, rewrite or review website and marketing copy so it reads at a third-grade level, leads with outcomes and gets the reader to act. Includes a readability checker and a no-ai-slop pass.",
+  "author": {
+    "name": "Adrian Ching",
+    "url": "https://github.com/adrianchinghc"
+  },
+  "homepage": "https://github.com/adrianchinghc/easy-copy",
+  "repository": "https://github.com/adrianchinghc/easy-copy",
+  "keywords": ["copywriting", "marketing", "landing-page", "readability", "conversion", "ux-writing"]
+}

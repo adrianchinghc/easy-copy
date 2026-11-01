@@ -1,0 +1,18 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "easy-copy",
+  "description": "Copywriting skills that make marketing copy land on the first read.",
+  "owner": {
+    "name": "Adrian Ching",
+    "url": "https://github.com/adrianchinghc"
+  },
+  "plugins": [
+    {
+      "name": "easy-copy",
+      "source": "./plugins/easy-copy",
+      "description": "Write, rewrite or review website and marketing copy so it reads at a third-grade level, leads with outcomes and gets the reader to act. Includes a readability checker and a no-ai-slop pass.",
+      "category": "productivity",
+      "keywords": ["copywriting", "marketing", "landing-page", "readability", "conversion", "ux-writing"]
+    }
+  ]
+}
